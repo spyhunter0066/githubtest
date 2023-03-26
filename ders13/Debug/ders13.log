@@ -1,0 +1,5 @@
+﻿  ders13.cpp
+c:\users\spyhunter\desktop\c++\ders13\ders13.cpp(12): error C2143: syntax error: missing ';' before '<<'
+c:\users\spyhunter\desktop\c++\ders13\ders13.cpp(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\spyhunter\desktop\c++\ders13\ders13.cpp(13): error C2059: syntax error: '}'
+c:\users\spyhunter\desktop\c++\ders13\ders13.cpp(13): error C2143: syntax error: missing ';' before '}'

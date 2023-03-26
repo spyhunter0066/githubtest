@@ -1,0 +1,4 @@
+﻿  ders20.cpp
+c:\users\spyhunter\source\repos\ders20\ders20.cpp(18): error C2374: 'y': redefinition; multiple initialization
+  c:\users\spyhunter\source\repos\ders20\ders20.cpp(16): note: see declaration of 'y'
+c:\users\spyhunter\source\repos\ders20\ders20.cpp(19): error C2088: '<<': illegal for class

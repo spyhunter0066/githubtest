@@ -1,0 +1,3 @@
+﻿  ders15.cpp
+c:\users\spyhunter\desktop\c++\ders15\ders15.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ders15.vcxproj -> C:\Users\Spyhunter\Desktop\c++\ders15\Debug\ders15.exe
