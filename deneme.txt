@@ -1,1 +1,3 @@
 merhaba arkadaşlar, yeni bir dosya ekliyorum
+şimdi git diff komutunu test ediyorum.
+
